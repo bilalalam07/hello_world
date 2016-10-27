@@ -1,7 +1,7 @@
 #include <string>
 #include <fstream>
 #include <iostream>
-
+#include <stadfix>
 
 
 void sortArray(string names[], int size)
