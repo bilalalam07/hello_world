@@ -27,10 +27,7 @@ void sortArray(string names[], int size)
     
 }
 
-//***************************************************************
-// The binarySearch function performs a binary search on an     *
-// integer array. array, which has a maximum of size elements,  *
-// is searched for the number stored in value. If the number is *
+
 // found, its array subscript is returned. Otherwise, -1 is     *
 // returned indicating the value was not in the array.          *
 //***************************************************************
