@@ -31,13 +31,7 @@ void sortArray(string names[], int size)
     
 }
 
-//***************************************************************
-// The binarySearch function performs a binary search on an     *
-// integer array. array, which has a maximum of size elements,  *
-// is searched for the number stored in value. If the number is *
-// found, its array subscript is returned. Otherwise, -1 is     *
-// returned indicating the value was not in the array.          *
-//***************************************************************
+
 int binarySearch(string names[], int size, string value)
 {
     int first = 0,             // First array element
@@ -105,8 +99,7 @@ int main()
         cout << "That name does not exist in the array.\n";
     else
     {
-        // Otherwise results contains the subscript of
-        // the specified employee ID in the array.
+       
         cout << "That name is found at element " << results;
         cout << " in the array.\n";
     }
