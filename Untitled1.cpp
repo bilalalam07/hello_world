@@ -3,11 +3,7 @@
 #include <iostream>
 
 
-//**************************************************************
-// Definition of function sortArray.                           *
-// This function performs an ascending order selection sort on *
-// array. size is the number of elements in the array.         *
-//**************************************************************
+
 void sortArray(string names[], int size)
 {
     int startScan, minIndex; 
