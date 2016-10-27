@@ -1,7 +1,7 @@
 #include <string>
 #include <fstream>
 #include <iostream>
-
+#include <iostream>
 
 
 void sortArray(string names[], int size)
