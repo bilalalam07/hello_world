@@ -66,7 +66,7 @@ int main()
   {                                                // whitespace it hits. (like spaces!)
     //std::cout << "This string is: " << str << std::endl;
     words[i] = str;
-  } // We now also need to stop before we hit the no define array space.
+  } 
   fin.close();
 
   std::cout << std::endl;
